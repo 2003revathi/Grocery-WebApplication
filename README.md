@@ -17,11 +17,7 @@ The project is built using the following technologies:
 - CSS3 (with Flexbox and Grid for layout)
 - JavaScript (for interactivity and dynamic content)
 
-## Installation
-
-To run the Grocery Website locally on your machine, follow these steps:
-
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/grocery-website.git
+   git clone https://github.com/2003revathi/Grocery-WebApplication.git
