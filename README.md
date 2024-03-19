@@ -9,6 +9,10 @@ The Grocery Website aims to provide users with a convenient way to purchase groc
 - Browse and search for groceries by category or keyword
 - Add items to a shopping cart for easy checkout
 
+## Tools
+
+visual studio code
+  
 ## Technologies Used
 
 The project is built using the following technologies:
